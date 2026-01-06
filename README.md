@@ -18,4 +18,4 @@ Data science portfolio
 
 ![](/Images/LOS_RF.png)
 
-![](Images/Mort_RF.png)
+![](Images/MORT_RF.png)
