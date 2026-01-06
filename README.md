@@ -7,7 +7,7 @@ Data science portfolio
 * Used SHAP values to interpret predictions: HbA1c, fasting glucose and postprandial glucose were top predictors.
 * Created a risk stratification tool with low/medium/high threasholds to guide preventive care.
 
-![](/Images/Diabetes%20SHAP.png)
+![](/Images/Diabetes_SHAP.png)
 
 # [Project 2: ICU Patient Outcome Analysis : Project overview](https://github.com/Initial-T53/ICU-Patient-Analysis)
 * Analyzed and worked with ICU electronic medical records to identify predictors of mortality and legnth of stay.
