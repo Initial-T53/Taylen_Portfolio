@@ -1,3 +1,8 @@
+---
+layout: default
+---
+
+
 # Taylen-Inthisane-Portfolio
 Data science portfolio
 
